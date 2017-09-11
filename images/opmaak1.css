@@ -1,0 +1,11 @@
+body {
+        background-image: url(http://travel.desktop-wallpaper-photo.com/nl/Plaatjes/Sint-Maarten-Wallpaper-1280x800-00003.jpg);
+}
+
+header h1 {
+  font-size: 300%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: right;
+  text-shadow: 5px 5px 7px #000000;
+}
