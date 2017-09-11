@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+body {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  background-color: green;
+}
+header {
+  background-image:url('https://www.fbi.gov/image-repository/technology.jpg/@@images/image/high');
+  width: 960px;
+  height: 150px;
+}
+
+ul {
+  background: #080808;
+  padding: 10px;
+}
+
+ul li {
+  background: #787878;
+  padding: 5px;
+  border: solid 2px white;
+  display: inline;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+}
